@@ -74,24 +74,21 @@
   text-transform: capitalize;
 }
 
-button{
-  padding: 5px 8px;
-  font-family: "Raleway", sans-serif;
-  text-transform: uppercase;
-  font-size: 13px;
-  letter-spacing: 2px;
-  font-weight: 500;
-  color: #868686;
-  background-color: #fff;
-  outline: none;
-  border: 1px solid black;
-  cursor: pointer;
-}
 
 .slot_inner{
   text-align: center;
   font-family: "Raleway", sans-serif;
   padding: 5px 8px;
   letter-spacing: 2px;
+}
+
+.slotmachine{
+  box-sizing: border-box;
+  padding: 20px;
+  margin-left: 450px;
+  width: 500px;
+  border: 1px solid black;
+  
+  
 }
 
